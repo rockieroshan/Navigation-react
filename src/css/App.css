@@ -1,0 +1,13 @@
+.navi {
+  padding: 10px;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.navi:hover {
+  color: grey;
+}
+
+.navi:focus {
+  color: red;
+}
